@@ -5,3 +5,5 @@ Pontiac
 Saab
 Saturn
 Oldsmoblie
+Buick
+Hummer
